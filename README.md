@@ -1,3 +1,3 @@
 # image datas
 
-This source is used for buildign my blog. All rights reversed.
+This source is used for building my blog. All rights reversed.
